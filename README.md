@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script>alert('111')</alert>
+<script>alert('111')</script>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flandre)](https://github.com/anuraghazra/github-readme-stats)
